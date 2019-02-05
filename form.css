@@ -1,0 +1,32 @@
+form { 
+margin: 0 auto; 
+width:250px;
+}
+
+body{
+	line-height:2.5;
+	background-color:rgba(23,45,54,0.2);
+	
+}
+h1{
+	color:rgb(234,0,54);
+	text-align:center;
+}
+.firstName{
+	color:rgb(35,43,65);
+	
+}
+.lastName{
+  color:rbg(3,43,65);
+  
+}
+.address{
+	 background-color: hsl(180, 50%, 50%);
+    color: hsl(0, 0%, 100%);
+}
+hr{ 
+  height: 1px;
+  color: red;
+ 
+  border: solid;
+}
